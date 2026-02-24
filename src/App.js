@@ -1,23 +1,36 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div className="logo">
+          <span className="logo-mark">L</span>
+          <span className="logo-text">EDROITIER</span>
+        </div>
+
+        <nav>
+          <a href="#rapports-rejets">Rapports Rejets</a>
+        </nav>
       </header>
+
+      <main>
+        <section id="rapports-rejets" className="section">
+          <h1>Rapports Rejets</h1>
+          <p>
+            Visualisation Power BI basée sur la requête de rejets Oracle.
+          </p>
+
+          <div className="report-container">
+            <iframe
+              title="Rapport Rejets"
+              src="COLLE_ICI_L_URL_SRC_DU_IFRAME_POWER_BI"
+              frameBorder="0"
+              allowFullScreen={true}
+            ></iframe>
+          </div>
+        </section>
+      </main>
     </div>
   );
 }
