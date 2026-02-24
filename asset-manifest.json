@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ledroitier/static/css/main.7379bda6.css",
-    "main.js": "/ledroitier/static/js/main.3c449907.js",
+    "main.css": "/ledroitier/static/css/main.9b69ef0c.css",
+    "main.js": "/ledroitier/static/js/main.8c8a989a.js",
     "static/js/453.bfeb513c.chunk.js": "/ledroitier/static/js/453.bfeb513c.chunk.js",
     "index.html": "/ledroitier/index.html",
-    "main.7379bda6.css.map": "/ledroitier/static/css/main.7379bda6.css.map",
-    "main.3c449907.js.map": "/ledroitier/static/js/main.3c449907.js.map",
+    "main.9b69ef0c.css.map": "/ledroitier/static/css/main.9b69ef0c.css.map",
+    "main.8c8a989a.js.map": "/ledroitier/static/js/main.8c8a989a.js.map",
     "453.bfeb513c.chunk.js.map": "/ledroitier/static/js/453.bfeb513c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7379bda6.css",
-    "static/js/main.3c449907.js"
+    "static/css/main.9b69ef0c.css",
+    "static/js/main.8c8a989a.js"
   ]
 }
